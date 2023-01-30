@@ -42,3 +42,9 @@ h1{
 .bg-yellow{
     background-color: yellow;
 }
+
+.text-center{
+    text-align: center;
+    background-color: brown;
+    padding: 20px;
+}
