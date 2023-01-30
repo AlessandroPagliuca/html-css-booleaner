@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 /* Start navbar */
@@ -17,3 +18,27 @@ body{
     margin-top: 50px;
 }
 /* /navbar */
+
+h1{
+    font-size:30px;
+}
+
+.text-medium{
+    font-size: medium;
+}
+
+.text-small{
+    font-size: small;
+}
+
+.news-bg-grey{
+    color: grey;
+}
+
+.text-booleaner{
+    color: rgb(24, 171, 207);
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
