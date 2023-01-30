@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+/* Start navbar */
+.navbar {
+    height: 100px;
+    background-color: rgb(102, 178, 255);
+    background-image: url("./img/pattern.png");
+    background-size:20%;  
+    position: relative;  
+}
+
+.navbar img{
+    height: 40%;
+    position: absolute;
+    margin-top: 50px;
+}
+/* /navbar */
