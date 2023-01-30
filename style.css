@@ -13,6 +13,7 @@ body{
     position: relative;  
 }
 
+
 .navbar img{
     height: 40%;
     position: absolute;
@@ -21,6 +22,10 @@ body{
 /* /navbar */
 
 /*news*/
+.center-all{
+    width: 70%;
+    margin: auto;
+}
 
 h1{
     font-size:30px;
@@ -74,12 +79,12 @@ h1{
     background-repeat: no-repeat;
 }
 .img-monitor{
-    background-image: url("./img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     
 }
 
 .img-graph{
-    background-image: url("./img/graph.jpg");
+    background-image: url("../img/graph.jpg");
 
 }
 
